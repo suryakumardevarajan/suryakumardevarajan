@@ -4,6 +4,8 @@ I am a Graduate Research Student in Electrical & Computer Engineering at McGill 
 
 I've been spending my time by immersing myself in many different works and projects on ML, doing social services, and improve my coding skills.
 
+![Kernel](kernel.png)
+
 ### What I'm focusing on 👨‍💻
 
 Thinking with a mathematical point of view. haha<br />
