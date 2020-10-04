@@ -18,6 +18,7 @@ Improving my SQL and C++ skills.
 
 ### 🌱 I’m currently looking 
 Looking for an oppurtunity in 
+
 -> Data Analysis
 
 -> Machine Learning Developer
