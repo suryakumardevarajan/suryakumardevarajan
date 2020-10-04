@@ -6,12 +6,12 @@ I've been spending my time by immersing myself in many different works and proje
 
 ### What I'm focusing on 👨‍💻
 
-Currently focussed on improving my C++ and SQL skills.<br />
+Currently focussed on improving my coding  skills.<br />
 
 ### 🔭 I’m currently working on 
 Financial Analysis using Machine Learning
 Face Detection, Mask detection, Facial expression detction using different classifiers, opencv and ML
-Improving my SQL skills
+Improving my SQL and C++ skills.
 
 
 ### 🌱 I’m currently looking 
