@@ -2,7 +2,7 @@
 
 I am a Graduate Research Student in Electrical & Computer Engineering at McGill University. I am a Budding Data Analyst, a Machine Lerning Enthusaist, and a Embedded Software Enginner. A former Associate Software Engineer at Robert Bosch. Besides my Professional life, I enjoy cooking, hiking, biking, solving sudoku and playing cricket
 
-I've been spending my time by immersing myself in many different works and projects, and improve my coding skills.
+I've been spending my time by immersing myself in many different works and projects on ML, doing social services, and improve my coding skills.
 
 ### What I'm focusing on 👨‍💻
 
