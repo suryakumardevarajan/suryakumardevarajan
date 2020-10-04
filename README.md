@@ -10,15 +10,20 @@ Currently focussed on improving my coding  skills.<br />
 
 ### 🔭 I’m currently working on 
 Financial Analysis using Machine Learning
+
 Face Detection, Mask detection, Facial expression detction using different classifiers, opencv and ML
+
 Improving my SQL and C++ skills.
 
 
 ### 🌱 I’m currently looking 
 Looking for an oppurtunity in 
 -> Data Analysis
+
 -> Machine Learning Developer
+
 -> Control Systems Engineer
+
 -> Embedded Development
 
 ### 💬 Ask me about
