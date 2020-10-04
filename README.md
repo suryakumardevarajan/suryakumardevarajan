@@ -6,7 +6,32 @@ I've been spending my time by immersing myself in many different works and proje
 
 ### What I'm focusing on 👨‍💻
 
-Currently focussed on improving in C++ and SQL.<br />
+Currently focussed on improving my C++ and SQL skills.<br />
+
+### 🔭 I’m currently working on 
+Financial Analysis using Machine Learning
+Face Detection, Mask detection, Facial expression detction using different classifiers, opencv and ML
+Improving my SQL skills
+
+
+### 🌱 I’m currently looking 
+Looking for an oppurtunity in 
+-> Data Analysis
+-> Machine Learning Developer
+-> Control Systems Engineer
+-> Embedded Development
+
+### 💬 Ask me about
+
+My favourite food !! Guess ??
+
+### 📫 How to reach me: 
+
+Facebook, LinkedIn
+
+### ⚡ Fun fact:
+
+I organized a Guinness World Record event 
 
 
 ### Find me elsewhere 🌎
@@ -21,12 +46,5 @@ Currently focussed on improving in C++ and SQL.<br />
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
