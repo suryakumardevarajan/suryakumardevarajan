@@ -4,7 +4,7 @@ I am a Graduate Research Student in Electrical & Computer Engineering at McGill 
 
 I've been spending my time by immersing myself in many different works and projects on ML, doing social services, and improve my coding skills.
 
-!![Kernel](../master/kernel.png)
+![Kernel](https://github.com/suryakumardevarajan/suryakumardevarajan/blob/main/kernel.jpg)
 
 ### What I'm focusing on 👨‍💻
 
