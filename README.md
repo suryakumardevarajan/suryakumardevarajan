@@ -6,7 +6,7 @@ I've been spending my time by immersing myself in many different works and proje
 
 ### What I'm focusing on 👨‍💻
 
-Currently focussed on improving my coding  skills.<br />
+Thinking with a mathematical point of view. haha<br />
 
 ### 🔭 I’m currently working on 
 Financial Analysis using Machine Learning
