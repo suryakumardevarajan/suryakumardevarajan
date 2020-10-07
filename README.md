@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Surya Kumar Devarajan](https://www.linkedin.com/in/suryakumardevarajan/)!
 
-I am a Graduate Research Student in Electrical & Computer Engineering at McGill University. I am a Budding Data Analyst, a Machine Lerning Enthusaist, and a Embedded Software Enginner. A former Associate Software Engineer at Robert Bosch. Besides my Professional life, I enjoy cooking, hiking, biking, solving sudoku and playing cricket
+I am a Graduate Research Student in Electrical & Computer Engineering at McGill University. I am a Budding Data Analyst, a Machine Lerning Enthusaist, and an Embedded Software Engineer. A former Associate Software Engineer at Robert Bosch. Besides my Professional life, I enjoy cooking, hiking, biking, solving sudoku and playing cricket
 
 I've been spending my time by immersing myself in many different works and projects on ML, doing social services, and improve my coding skills.
 
