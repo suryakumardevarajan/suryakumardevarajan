@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Surya Kumar Devarajan](https://www.linkedin.com/in/suryakumardevarajan/)!
 
-I am a Graduate Research Student in Electrical & Computer Engineering at McGill University. I am a Budding Data Analyst, a Machine Learning Enthusiast and an Embedded Software Engineer. A former Associate Software Engineer at Robert Bosch. Besides my Professional life, I enjoy cooking, hiking, biking, solving sudoku and playing cricket
+Computer Vision Engineer @ ABIF, McGill. A Graduate Research Student in Electrical & Computer Engineering at McGill University. A former Associate Software Engineer at Robert Bosch. Besides my Professional life, I enjoy cooking, hiking, biking, solving sudoku and playing cricket
 
 I've been spending my time by immersing myself in many different works and projects on ML, doing social services, and improve my coding skills.
 
@@ -13,7 +13,7 @@ Thinking with a mathematical point of view. haha<br />
 ### 🔭 I’m currently working on 
 Financial Analysis using Machine Learning
 
-Face Detection, Mask detection, Facial expression detction using different classifiers, opencv and ML
+3D Reconstruction, Data Analysis, Computer Vision, Deep Learning
 
 Improving my SQL and C++ skills.
 
@@ -21,13 +21,10 @@ Improving my SQL and C++ skills.
 ### 🌱 I’m currently looking 
 Looking for an oppurtunity in 
 
--> Data Analysis
+-> Data Scientist
 
 -> Machine Learning Developer
 
--> Control Systems Engineer
-
--> Embedded Development
 
 ### 💬 Ask me about
 
