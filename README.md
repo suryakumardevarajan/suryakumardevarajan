@@ -1,55 +1,63 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Surya Kumar Devarajan](https://www.linkedin.com/in/suryakumardevarajan/)!
 
-Computer Vision Engineer @ ABIF, McGill. A Graduate Research Student in Electrical & Computer Engineering at McGill University. A former Associate Software Engineer at Robert Bosch. Besides my Professional life, I enjoy cooking, hiking, biking, solving sudoku and playing cricket
+🔧 Product Specialist | 🧠 Systems Thinker | 🌍 Global Collaborator  
+📍 Based in Germany | Previously: Stellantis, Bosch, McGill, Beam Me Up Inc.
 
-I've been spending my time by immersing myself in many different works and projects on ML, doing social services, and improve my coding skills.
+---
 
-![Kernel](https://github.com/suryakumardevarajan/suryakumardevarajan/blob/main/kernel.jpg)
+### 🚀 About Me
 
-### What I'm focusing on 👨‍💻
+I'm a product-driven professional blending engineering precision with strategic vision. With 5+ years of global experience in ADAS, embedded systems, AI, and automotive software, I’m passionate about building safe, scalable, and human-centered products.
 
-Thinking with a mathematical point of view. haha<br />
+I’ve worked across startups, OEMs, Tier 1 suppliers, and research labs—owning everything from requirement specs and supplier meetings to sprint reviews, roadmaps, and regulatory compliance.
 
-### 🔭 I’m currently working on 
-Financial Analysis using Machine Learning
+When I'm not decoding complex systems, you’ll find me hiking, biking, and solving sudoku.
 
-3D Reconstruction, Data Analysis, Computer Vision, Deep Learning
+---
 
-Improving my SQL and C++ skills.
+### 🎯 What I'm Focused On
 
+- ⚙️ Product Strategy for ADAS, Mobility, and Smart Tech  
+- 📈 Agile Execution & Cross-functional Team Leadership  
+- 🔍 Data-Driven Roadmapping & Risk Management  
+- 🧩 Building Systems that Actually Work—and Scale  
+- 🤖 Staying close to AI/ML, Computer Vision, and Edge Tech
 
-### 🌱 I’m currently looking 
-Looking for an oppurtunity in 
+---
 
--> Data Scientist
+### 🔭 Current Projects
 
--> Machine Learning Developer
+- PM Portfolio Website (Creative + Modular)  
+- Case study write-ups (ADAS, AI-based lab tools, etc.)  
+- Exploring tools for AI in product decision-making  
+- Automating some boring workflows with Python 😉
 
+---
 
-### 💬 Ask me about
+### 🌱 Open To
 
-My favourite food !! Guess ??
+→ **Product Manager** roles in Mobility / Automotive / AI  
+→ **Project Manager** or **Technical Program Manager** positions  
+→ Companies that care about users, quality, and creative solutions
 
-### 📫 How to reach me: 
+---
 
-Facebook, LinkedIn
+### 💬 Fun Facts
 
-### ⚡ Fun fact:
+- Organized a **Guinness World Record** event  
+- Love solving **Sudoku**, biking, and brewing **South Indian coffee**  
+- Once built a **3D computer vision system** in a lockdown-era lab
 
-I organized a Guinness World Record event 
+---
 
+### 📫 Let's Connect
 
-### Find me elsewhere 🌎
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryakumardevarajan/)](https://www.linkedin.com/in/suryakumardevarajan/)  
+📧 suryakumardevarajan@gmail.com  
+📍 Hannover, Germany
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/suryakumardevarajan/) 
+---
 
+> _"Great products aren’t just built—they’re orchestrated."_  
+> – Surya
 
-
-<!--
-**suryakumardevarajan/suryakumardevarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-
--->
