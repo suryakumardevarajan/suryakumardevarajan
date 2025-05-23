@@ -11,7 +11,7 @@ I'm a product-driven professional blending engineering precision with strategic 
 
 I’ve worked across startups, OEMs, Tier 1 suppliers, and research labs—owning commercial agreements, requirements definition, design and development, validation, release, and launch, while ensuring quality through structured planning, cross-functional meetings, and regulatory compliance.
 
-Off the clock, I trade product roadmaps for forest trails, debug Sudoku puzzles for fun, and cook with the precision of a systems engineer—spices included.
+Off the clock, I trade product roadmaps for forest trails, debug Sudoku puzzles for fun, and cook with the precision of a systems engineer - spices included.
 
 ---
 
