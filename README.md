@@ -7,11 +7,11 @@
 
 ### 🚀 About Me
 
-I'm a product-driven professional blending engineering precision with strategic vision. With 5+ years of global experience in ADAS, embedded systems, AI, and automotive software, I’m passionate about building and managing safe, scalable, and human-centered products.
+I'm a results-oriented professional blending engineering with management, compassion, and emotional intelligence. With over 5 years of global experience in ADAS, embedded systems, AI, and automotive software, I’m driven by the challenge of building and supporting safe, scalable, and human-centered technologies.
 
-I’ve worked across startups, OEMs, Tier 1 suppliers, and research labs—owning commercial agreements, requirements definition, design and development, validation, release, and launch, while ensuring quality through structured planning, cross-functional meetings, and regulatory compliance.
+I’ve contributed across OEMs, Tier 1 suppliers, startups, and research labs. I’ve taken ownership of commercial discussions, requirements, design, development, testing, release, and launch. My work emphasizes clear planning, cross-functional teamwork, and a strong focus on quality and compliance.
 
-Off the clock, I trade product roadmaps for forest trails, debug Sudoku puzzles for fun, and cook with the precision of a systems engineer — spices included.
+Outside work, I trade project plans for forest trails, debug Sudoku puzzles, and cook with the precision of a systems engineer (spices included lol).
 
 ---
 
@@ -40,7 +40,7 @@ Off the clock, I trade product roadmaps for forest trails, debug Sudoku puzzles 
 🎯 Product Management roles in Mobility, AI-driven systems, or Sustainability-focused projects  
 🧩 Project Manager or Technical Program Manager positions that bridge technology, teams, and timelines  
 🚗 Roles in Automotive Systems Engineering, with a focus on Requirements, Validation, and Quality Assurance  
-💡 Mission-driven companies that value user experience, technical excellence, and creative, systems-level thinking  
+💡 Passionate about enabling teams that combine user focus, engineering quality, systems thinking, and agile collaboration.
 
 ---
 
